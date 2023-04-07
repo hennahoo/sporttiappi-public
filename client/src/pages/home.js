@@ -151,6 +151,7 @@ export const Home = () => {
               <div class="column">
                  <h1> Tähän tulee joskus diagrammi             </h1> 
                  <h3> - tietoa suorituksista graafisesti       </h3>
+                 <h3> Edit. demo graafi saatu näkyviin         </h3>                 
     
                     { /*     https://stackoverflow.com/questions/39999367/how-do-i-reference-a-local-image-in-react     */  }
                     <img className="img-fluid" 
