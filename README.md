@@ -1,6 +1,13 @@
 # sporttiappi-public
 Let's make simple sport app...   MERN Full Stack  application. Publishing Sporttiappi to the Oracle cloud server
   
+Whole process is documented at my blogsite:
+- https://koodinkutoja.com/full-stack-projekti-osa1-palvelimen-asennus/
+- https://koodinkutoja.com/full-stack-projekti-osa2-node-js-backend/
+- https://koodinkutoja.com/full-stack-projekti-osa3-react-frontend/
+- https://koodinkutoja.com/full-stack-projekti-osa4-palvelimelle-node-js-serviceksi/
+- https://koodinkutoja.com/full-stack-projekti-osa5-https-salaus-kayttoon/
+ 
   
 Commands used:   
 
